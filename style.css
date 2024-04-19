@@ -270,7 +270,7 @@ margin: auto 0;
    height:80%;
  }
  .section__pic-container{
-   height: 40p0x;
+   height: 400px;
    width: 400px;
    margin: auto 0;
  }
@@ -321,13 +321,13 @@ article{
  
  .project-img1 {
    border-radius: 2rem;
-   width: 10%;
-   height: 10%;
+   width: 40%;
+   height: 40%;
  }
  .project-img2 {
    border-radius: 2rem;
-   width: 10%;
-   height: 10%;
+   width: 40%;
+   height: 40%;
  }
  
  .project-title {
